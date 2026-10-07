@@ -1,0 +1,28 @@
+{
+  "protocol": 1,
+  "id": 1,
+  "kind": "relay",
+  "parents": [],
+  "project": {
+    "slug": "handoff",
+    "root": "D:\\zuomian\\handoff"
+  },
+  "repo": {
+    "branch": "main",
+    "head": "3fe5591331c415d87c27b97037e818103276123a",
+    "dirty": false,
+    "wip": null,
+    "skipped": []
+  },
+  "source": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "session": "9cc0e377-1ac0-4c3f-a165-b859035d49e4",
+    "voice": "native"
+  },
+  "lane": "main",
+  "created": "2026-10-07T20:39:30+08:00",
+  "next": "处理 code-reviewer 后台审查报告里的确认问题，修完跑 `npm test` 与 `npm run check`",
+  "accept": "18 个测试全绿且 tsc 无错误",
+  "owns": []
+}
