@@ -1,3 +1,9 @@
+> **本项目已合并到 [Agent Suite](https://github.com/Choysang/agent-suite)，后续只在总仓库维护。**
+> [查看本模块的新介绍](https://github.com/Choysang/agent-suite/tree/main/handoff) · [只下载本模块](https://github.com/Choysang/agent-suite/releases/latest/download/handoff.zip)
+> 本仓库保留为迁移记录，以下内容为迁移前版本。
+
+---
+
 <div align="center">
 
 # handoff ⚡
